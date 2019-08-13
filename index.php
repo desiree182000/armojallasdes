@@ -82,7 +82,7 @@
 	<article><!--for the photos-->
 		<div class="row">
 			<div class="column">
-				<a href="1.html"><img src="1.jpg" align="center" style="width:100%"></a>
+				<a href="1.html"><img src="/../PUBLIC/img/1.jpg" align="center" style="width:100%"></a>
 				<p style="color: white;" align="center">The stairway.</p>
 			</div>
 			<div class="column">
