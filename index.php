@@ -82,19 +82,19 @@
 	<article><!--for the photos-->
 		<div class="row">
 			<div class="column">
-				<a href="1.html"><img src="1.jpg" align="center" style="width:100%"></a>
+				<a href="1.html"><img src="1.JPG" align="center" style="width:100%"></a>
 				<p style="color: white;" align="center">The stairway.</p>
 			</div>
 			<div class="column">
-				<a href="2.html"><img src="2.jpg" align="center" style="width:100%">
+				<a href="2.html"><img src="2.JPG" align="center" style="width:100%">
 				<p style="color: white;" align="center">The bus.</p>
 			</div>
 			<div class="column">
-				<a href="3.html"><img src="3.jpg" align="center" style="width:100%">
+				<a href="3.html"><img src="3.JPG" align="center" style="width:100%">
 				<p style="color: white;" align="center">The maintenance.</p>
 			</div>
 			<div class="column">
-				<a href="4.html"><img src="4.jpg" align="center" style="width:100%">
+				<a href="4.html"><img src="4.JPG" align="center" style="width:100%">
 				<p style="color: white;" align="center">The children.</p>
 			</div>
 		</div>
